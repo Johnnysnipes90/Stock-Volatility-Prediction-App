@@ -36,17 +36,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## 📸 Screenshots
-Below are some screenshots of the app:
-
-![Dashboard](images/dashboard.png)
-*Dashboard showing stock trends and predictions.*
-
-![Prediction](images/prediction1.png)
-*Stock price volatility prediction view.*
-![Prediction](images/prediction2.png)
-*Stock price volatility prediction view.*
-
 ## 🛠 Technologies Used
 - **Python**: FastAPI, Pydantic, Uvicorn
 - **Frontend**: Streamlit
