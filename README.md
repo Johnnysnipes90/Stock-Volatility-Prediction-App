@@ -55,3 +55,8 @@ Below are some screenshots of the app:
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Developed by Olalemi John
+📧 Email: johnolalemi90@gmail.com
+🔗 LinkedIn: linkedin.com/in/john-olalemi
